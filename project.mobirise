@@ -622,7 +622,7 @@
             },
             "H1": {
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "center"
             },
             "H3": {
               "color": "#ffffff"
