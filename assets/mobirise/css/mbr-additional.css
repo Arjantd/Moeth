@@ -1894,6 +1894,29 @@ body {
 .cid-qV8fUmoZfV .mbr-text {
   color: #f2f2f2;
 }
+.cid-qXY8UORKMP {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-qXY8UORKMP .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qXY8UORKMP .section-text {
+  padding: 2rem 0;
+}
+.cid-qXY8UORKMP .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qXY8UORKMP .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-qQZtlbFlsk {
   padding-top: 45px;
   padding-bottom: 90px;
